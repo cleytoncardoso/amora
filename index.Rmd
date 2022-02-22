@@ -1,6 +1,6 @@
 ---
 title: "Meu Relatório"
-author: "Cleyton"
+author: "Cleyton Cardoso"
 date: "`r Sys.Date()`"
 output_dir: "."
 output:
